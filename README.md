@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Привет👋</h1>
+  <h1>Hello world!👋</h1>
   <p>Android-разработчик</p>
 
   <!-- Блок с бейджами и статистикой -->
@@ -23,7 +23,9 @@
 
 <br/>
 
-<p>
+### 🛠️ Мой стек технологий
+<!-- Красивые цветные плашки для скиллов -->
+<p align="center">
   <img src="https://shields.io" alt="Kotlin" />
   <img src="https://shields.io" alt="Android" />
   <img src="https://shields.io" alt="Git" />
